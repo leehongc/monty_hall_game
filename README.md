@@ -6,7 +6,7 @@ The Monty Hall problem was based on the popular American game show Let's Make a 
 To play a single game: 
 <br /><code>python MontyHallGame.py</code>
 
-To run a simulation for multipl games:
+To run the simulation for multiple games:
 <br /><code>python MontyHallGame.py 0 1000</code>
 <br />Where:
 
